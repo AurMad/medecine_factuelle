@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "zotero_citation.html",
+    "href": "zotero_citation.html",
+    "title": "14  Citer et générer une liste de références",
+    "section": "",
+    "text": "Lorsque vous installez Zotero, une extension est ajoutée à votre logiciel de traitement de texte. Dans Microsoft Word un nouvel onglet apparait dans le ruban :\n\nLorsqu’on clique sur Add/Edit Citation, une barre de recherche apparaît. En entrant des mots-clés en lien avec la référence souhaitée, une liste de références apparaît. La ou les références sélectionnées apparaissent en tant que citations dans le texte.\n\nLa dernière étape consiste à générer la liste des références citées. Pour cela, cliquer sur Add/Edit Bibliography. En cliquant sur Document Preferences dans l’onglet Zotero, il est possible de changer le style de citation."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Cette partie présente la médecine factuelle, décrit brièvement les différentes étapes requises pour la mise en œuvre de cette démarche en réponse à une question clinique et justifie son intérêt pour des vétérinaires praticiens."
+  },
+  {
+    "objectID": "definition.html#footnotes",
+    "href": "definition.html#footnotes",
+    "title": "1  Qu’est-ce que la médecine factuelle ?",
+    "section": "",
+    "text": "Le Royal College of Veterinary Surgeons (RCVS), équivalent de l’ordre des vétérinaires au Royaume-Uni, a développé de nombreuses ressources sur l’EBVM. Voir la définition qu’ils donnent de l’EBVM ici. Le RCVS a aussi développé un EBVM toolkit qui explique tous les détails de la démarche.↩︎"
+  },
+  {
+    "objectID": "motivations.html#footnotes",
+    "href": "motivations.html#footnotes",
+    "title": "2  Pourquoi apprendre la démarche EBVM ?",
+    "section": "",
+    "text": "Ce référentiel peut être téléchargé depuis l’adresse suivante : https://en.agreenium.fr/node/1287↩︎"
+  },
+  {
+    "objectID": "question.html",
+    "href": "question.html",
+    "title": "Formuler une question",
+    "section": "",
+    "text": "Afin de trouver toutes les informations pertinentes et utiles pour déterminer la meilleure conduite à tenir, il est nécessaire de formuler une question précise à partir du contexte clinique d’intérêt. L’acronyme PICO encapsule un certain nombre de règles qui permettent de formuler cette question, qui servira ensuite à construire les requêtes d’interrogation des bases de données."
+  },
+  {
+    "objectID": "pico.html",
+    "href": "pico.html",
+    "title": "3  PICO",
+    "section": "",
+    "text": "La question provient habituellement d’un besoin ou d’une interrogation de terrain concernant la meilleure pratique à adopter pour prévenir ou guérir un trouble de santé. Si la question est trop imprécise, il ne sera pas possible d’y apporter une réponse pertinente. Par exemple, si on souhaite identifier les meilleures pratiques permettant de prévenir l’apparition de boiteries chez les bovins, on va devoir se restreindre aux boiteries avec une origine infectieuse comme la dermatite digitale ou à l’opposé de problèmes ayant une origine mécanique et/ou métabolique comme la maladie de la ligne blanche par exemple. Si ces différentes maladies sont mélangées, on risque de trouver un nombre important de ressources, sans grande cohérence car mélangeant des problèmes différents aux origines différentes. Des connaissances minimales préalables sont ainsi nécessaires à une formulation concise et précise de la question.\nIl convient aussi de bien définir la population d’intérêt. Typiquement, les vaches laitières et les vaches allaitantes sont élevées dans des environnements différents ; les animaux des élevages intensifs qui ont des productions élevées et passent beaucoup de temps en bâtiments sont soumis à des risques et contraintes différents des animaux issus d’élevages extensifs qui pâturent en moyenne plus. Des chiens d’une race donnée peuvent être plus à risque de certaines maladies. De même le stade physiologique (chatte gestante ou non, vache en lactation ou vache tarie, animal pubère ou non) peut influer. Des mesures pertinentes dans une population pourraient ne pas l’être dans une autre. Par ailleurs, les animaux sains ne permettent pas d’évaluer des mesures curatives et les animaux déjà malades ne peuvent pas être utilisés pour évaluer des pratiques ou traitements préventifs. Une question fréquemment posée en clientèle est ainsi : Docteur, dois-je stériliser ma chienne ? La réponse pourrait ainsi être différente selon qu’on a affaire à une chienne avant ou après ses premières chaleurs, obèse ou non. Il faut donc d’abord définir le plus précisément possible le Patient ou la Population (P).\nUn autre point à considérer est que toute évaluation nécessite une comparaison. La meilleure façon de s’en rendre compte est de constater que beaucoup de maladies guérissent spontanément à l’issue d’une période plus ou moins longue. Sauf cas particulier, la mise en place d’un traitement de façon systématique lors de l’apparition d’un trouble de santé ne permet pas de dire ce qui se serait passé si on n’avait rien fait. Il convient donc de définir une référence. Ce type de considération est à relier à la notion de causalité en épidémiologie. Si on reprend l’exemple de la stérilisation de la chienne, qu’entend le propriétaire par stérilisation : hormonale ou chirurgicale ? Quelles sont les alternatives à envisager, et en conséquence, quelles sont les comparaisons pertinentes : stérilisation chirurgicale comparée à ne rien faire, ou bien, stérilisation chirurgicale comparée à un traitement hormonal. Les réponses seront forcément différentes pour une question, qui pour le propriétaire semble identique. Il faut donc ensuite définir le plus précisément l’Intervention (I) à évaluer et la méthode à laquelle la Comparer (C).\nEnfin, l’issue d’intérêt doit être précisée. S’agit-il de la guérison clinique, de la guérison bactériologique ou virale en cas d’infection, de la survie, de la production… ? Dans un contexte d’élevage, c’est-à-dire avec une finalité économique, la production ultérieure des animaux peut-être un critère primordial à prendre en compte dans un choix de traitement. Pour notre chienne devant être stérilisée, parle-t-on de survenue de troubles de la reproduction, de tumeurs mammaires, de prise de poids, de survie ? Il s’agit ainsi enfin de définir l’issue à évaluer (Outcome en anglais – O) Les différentes règles pour la formulation d’une question en EBVM peuvent être résumées avec l’acronyme PICO, explicité dans le tableau ci-dessous :\n\n\n\n\n\n\n\n\n\n\n\n\nDéfinition\nExplication\nExemple 1\nExemple 2\nExemple 3\n\n\n\n\nP\nPatient / Population\nQuels sont les patients ou la population d’intérêt ?\nVaches en lactation avec un score de locomotion &lt; 2\nVaches avec une infection intramammaire au dernier contrôle laitier avant tarissement\nChiennes pubères\n\n\nI\nIntervention\nQuelle est l’intervention évaluée ?\nPassage dans une solution de sulfate de cuivre en pédiluve deux fois par semaine\nTraitement avec antibiotique A\nAdministration d’acétate de mégestrol\n\n\nC\nComparaison / Control\nQuel est l’intervention ou le traitement de référence ?\nParage préventif\nTraitement avec antibiotique B\nOvariectomie\n\n\nO\nOutcome\nQuelles est l’issue d’intérêt ?\nPrésence de lésions de dermatite digitale détectées au parage\nCulture de bactéries dans des échantillons de lait collectés après vêlage\nSurvenue de tumeurs mammaires"
+  },
+  {
+    "objectID": "info.html",
+    "href": "info.html",
+    "title": "Quelles sources d’information ?",
+    "section": "",
+    "text": "Diverses sources d’information sont mobilisables pour répondre à votre question. En tant qu’étudiants, des informations que vous pourriez mobiliser assez vite et spontanément sont celles consignées dans vos notes et polycopiés de cours. Vos enseignants font déjà sur certains sujets le travail que vous essayez de faire, et les informations dont vous disposez sont peut-être déjà à jour. Il est également possible que les informations qui vous sont fournies par vos enseignants soient différentes de ce que vous voyez appliqué sur le terrain, ou que différents maîtres de stages appliquent des pratiques complètement différentes pour le même trouble de santé. Et parfois vos notes de cours sont trop imprécises pour répondre à votre questions (exemple : d’une note «antibiotiques» pour une maladie donnée sans indication de la molécule ou de la posologie).\nD’autres sources d’informations à votre disposition sont la presse professionnelle, les congrès professionnels, les formations, les fiches techniques et communications produites par des groupes de travail, des commissions techniques d’organisations professionnelles ou par les entreprises qui commercialisent des produits. Enfin, une dernière source d’information à votre disposition est ce que l’on appelle la littérature scientifique.\nSelon la provenance de l’information, sa nature et son contenu, vous établissez probablement déjà une hiérarchie et accordez plus ou moins de crédit à certaines sources et documents. La littérature scientifique internationale, notamment issue de journaux à comité de lecture, lorsqu’elle existe, est une source d’information qui devrait être privilégiée car son objectif est de produire des connaissances objectives à partir de données et de méthodes adaptées à la question de recherche."
+  },
+  {
+    "objectID": "peer_review.html#footnotes",
+    "href": "peer_review.html#footnotes",
+    "title": "4  Qu’est-ce que la relecture par les pairs ?",
+    "section": "",
+    "text": "Cela pourrait être vous, par exemple si vous souhaitez publier les résultats de vos travaux de thèse.↩︎\nCommunément appelé reviewer par les évalués francophones.↩︎\nPour des exemples de relecture par les pairs, vous pouvez consulter le site de Peer Community In (PCI). PCI n’est pas un journal, mais un dispositif d’évaluation dont les objectifs sont d’être transparent, ouvert et gratuit. Le processus est identique au peer-review traditionnel. Sur le site, vous trouverez des exemples d’échanges entre auteurs, relecteurs et éditeur (appelé ici recommenders). Voir par exemple (au hasard) ici. Les articles recommandés peuvent ensuite être publiés dans un journal : ici↩︎"
+  },
+  {
+    "objectID": "bibliometrie.html",
+    "href": "bibliometrie.html",
+    "title": "5  Indicateurs de qualité des journaux scientifiques",
+    "section": "",
+    "text": "Les journaux scientifiques n’ont pas tous la même renommée et la qualité des articles qu’on y trouve peut être variable selon le journal. Par ailleurs, dans la majorité des pays, les chercheurs sont évalués sur la qualité de leurs recherches, mesurée entre autres par le nombre de publications et la renommée des journaux dans lesquels se font ces publications. Les scientifiques ont donc intérêt à publier dans les journaux les plus prestigieux.\nDivers indicateurs sont utilisés pour mesurer la renommée des journaux, ainsi que celles des scientifiques. La plupart de ces indicateurs sont basés sur le nombre de citations engrangées par les articles, c’est-à-dire le nombre de fois où un article a été cité dans un autre article. C’est l’objet de travail d’un champ disciplinaire appelé bibliométrie. L’indicateur le plus connu est appelé facteur d’impact ou impact factor en anglais. Le principe de son calcul est le suivant :\n\nDénominateur : tous les articles publiés dans un journal d’intérêt dans les années \\(n-1\\) et \\(n-2\\).\nNumérateur : pour les articles du dénominateur, nombre de citations dans l’année \\(n\\), dans une liste de journaux pris en compte.\n\nPlus un journal a un facteur d’impact élevé, plus les articles qu’il publie sont cités, ce qui intuitivement indique que les articles publiés sont de bonne qualité. Ce critère est toutefois parfois critiqué pour plusieurs raisons. D’une part, la tentation est grande de publier des découvertes sensationnelles pour accroitre le nombre de citations, en étant complaisant sur certaines erreurs méthodologiques. D’autre part, ce facteur d’impact n’est valide qu’à l’intérieur d’une thématique. En effet, plus un sujet est recherché est actif, plus le nombre de publications et donc de citations qui y sont associées sont importants."
+  },
+  {
+    "objectID": "open_access.html#footnotes",
+    "href": "open_access.html#footnotes",
+    "title": "6  Qu’est-ce que l’open-access ?",
+    "section": "",
+    "text": "Parmi les pionniers dans ce domaine figure le journal PLOS One. PLOS pour Public Library Of Science. Journal créé en 2006 qui ne publie que des articles en open-access. Voir le site du journal.↩︎\nAppelés APC pour article processing charges. Habituellement entre 1 500 et 3 000€.↩︎"
+  },
+  {
+    "objectID": "predateur.html#footnotes",
+    "href": "predateur.html#footnotes",
+    "title": "7  Qu’est-ce qu’un journal prédateur ?",
+    "section": "",
+    "text": "En France, les auteurs ne perçoivent pas d’argent lorsqu’ils publient un article. Toutefois, le nombre de publications peut déterminer la vitesse de progression de leur carrière.↩︎\nPlusieurs fois par le passé, des scientifiques ont soumis des articles totalement farfelus à de soi-disant journaux scientifiques pour démontrer la légèreté de leur processus de relecture. Voir cette pépite publiée lors de la pandémie de COVID.↩︎"
+  },
+  {
+    "objectID": "recherche_info.html#footnotes",
+    "href": "recherche_info.html#footnotes",
+    "title": "Trouver les informations",
+    "section": "",
+    "text": "Effet tiroir est traduit par file drawer problem en anglais.↩︎\nEn anglais, on parle de preregistration. Page Wikipedia correspondante↩︎"
+  },
+  {
+    "objectID": "recherche_bdd.html#footnotes",
+    "href": "recherche_bdd.html#footnotes",
+    "title": "8  Bases de données",
+    "section": "",
+    "text": "Aussi appelées équations de recherche.↩︎"
+  },
+  {
+    "objectID": "recherche_pubmed.html#footnotes",
+    "href": "recherche_pubmed.html#footnotes",
+    "title": "9  Qu’est-ce que PubMed ?",
+    "section": "",
+    "text": "Pour une description détaillée de PubMed (en anglais), voir la vidéo suivante : https://www.nlm.nih.gov/oet/ed/pubmed/quicktours/whatsin/index.html↩︎\nPlus détails sur Medline et le processus de sélection de journaux à l’adresse suivante : https://www.nlm.nih.gov/medline/medline_overview.html↩︎\nUne série de vidéos en français sur les MeSH : https://youtu.be/PBbtR4E1XME↩︎"
+  },
+  {
+    "objectID": "recherche_pubmed_comment.html",
+    "href": "recherche_pubmed_comment.html",
+    "title": "10  Trouver des articles avec PubMed",
+    "section": "",
+    "text": "Les recherches sur PubMed se font à partir de la page suivante : https://pubmed.ncbi.nlm.nih.gov/. La page contient une barre de recherche dans laquelle on saisit les termes recherchés (à identifier à partir du PICO). Les enjeux de la recherche sont de trouver tous les articles pertinents sur la question d’intérêt (sensibilité) tout en obtenant le moins d’articles non pertinents possibles (spécificité). Pour effectuer une recherche, on suggère de procéder comme suit :\nSaisir une requête avec les mots-clés souhaités dans la barre de recherche puis cliquer sur Search. \nLa requête retourne un certain nombre d’articles sous la forme suivante :\n\nEn cliquant sur advanced, il est possible de voir comment PubMed a interprété la requête :\n\nOn peut alors éditer cette requête pour y inclure des termes supplémentaires ou pour exclure (avec l’opérateur NOT) des termes qui concernent des articles qui ne correspondent pas à la question d’intérêt.\nLorsque la requête a été finalisée et que la liste de références obtenue est jugée convenable, il est possible d’exporter ces références. Pour cela, cliquer sur Send to puis, dans la liste déroulante, sur Citation manager. Plus tard, nous verrons comment importer ces références dans un logiciel de gestion bibliographique."
+  },
+  {
+    "objectID": "recherche_tri_docs.html",
+    "href": "recherche_tri_docs.html",
+    "title": "11  Tri des documents identifiés",
+    "section": "",
+    "text": "Si la recherche de documents doit permettre d’identifier toutes les ressources pertinentes, on trouve souvent beaucoup d’articles sans lien avec la question d’intérêt dans la liste retournée. Une première étape de tri sur la base des titres et des résumés est donc nécessaire."
+  },
+  {
+    "objectID": "logiciels_biblio.html#footnotes",
+    "href": "logiciels_biblio.html#footnotes",
+    "title": "Gestions des références bibliographiques",
+    "section": "",
+    "text": "Liste des logiciels de gestion bibliographiques recensés par Wikipédia : https://fr.wikipedia.org/wiki/Logiciel_de_gestion_bibliographique↩︎"
+  },
+  {
+    "objectID": "zotero_intro.html",
+    "href": "zotero_intro.html",
+    "title": "12  Zotero",
+    "section": "",
+    "text": "Ici, nous présentons le logiciel Zotero qui est gratuit et largement utilisé. Pour télécharger ce logiciel, rendez vous sur la page suivante : https://www.zotero.org/download/. Une fois le logiciel installé et ouvert, l’interface est la suivante :\n\n\nEn haut : barre de menus qui vous permet d’accéder à différentes commandes\nPanneau de gauche : panneau de navigation dans la bibliothèque\nPanneau du milieu : liste de références\nPanneau de droite : détail de la référence sélectionnée"
+  },
+  {
+    "objectID": "zotero_import.html",
+    "href": "zotero_import.html",
+    "title": "13  Importer des références",
+    "section": "",
+    "text": "13.0.1 Importer des références avec le connecteur Zotero\nLa façon la plus pratique et la plus rapide d’importer des références dans le logiciel est via l’utilisation d’un bouton d’import dans votre navigateur internet. Pour cela, un module d’import doit être installé. La procédure d’installation est la suivante. Dans la barre de menus du logiciel Zotero, cliquez sur Outils / Installer le Connecteur Zotero dans le Navigateur. Lorsque vous cliquez sur ce menu, une page internet s’ouvre dans votre navigateur par défaut. Cliquez sur Install.\n\nUne fois le connecteur installé, il devient possible d’importer des références d’articles depuis la page PubMed ou la page internet de l’article en cliquant sur le bouton du connecteur Zotero. L’import nécessite que Zotero soit ouvert.\n\nLorsque vous cliquez sur le bouton du connecteur, le cadre ci-dessous apparaît :\n\nVous pouvez vérifier dans Zotero que la référence a bien été importée :\n\n\n\n13.0.2 Saisir des références manuellement\nIl est possible d’entrer des références manuellement en cliquant sur le + vert au-dessous de la barre de menus. Une fois le type de référence sélectionné, les différents champs sont à renseigner. Noter que les articles scientifiques sont à saisir en tant qu’articles de revues.\n\n\n\n13.0.3 Importer une liste de références existante\nIl est possible d’importer des références exportées depuis un autre logiciel ou exportées depuis un site internet tel que PubMed. Reprenons le fichier exporté depuis PubMed plus haut. Cliquez sur Fichier / Importer.\n\nSélectionnez la première modalité d’import.\n\nSélectionnez votre fichier.\n\nSélectionnez la première possibilité.\n Vous pouvez vérifier que les références ont été importées dans Zotero, et placées dans une nouvelle collection qui porte le nom du fichier depuis lequel l’import a été réalisé. Il est possible de renommer cette collection ou de copier-coller les références dans un autre emplacement."
+  },
+  {
+    "objectID": "logiciels_biblio_autres.html#footnotes",
+    "href": "logiciels_biblio_autres.html#footnotes",
+    "title": "15  Autres logiciels",
+    "section": "",
+    "text": "Vous pourriez être amené à utiliser RMarkdown ou Quarto si vous utilisez R pour vos travaux de thèse. Le présent document a été produit en utilisant Quarto. Si vous voulez savoir ce qu’est RMarkdown, voir cette introduction : https://delladata.fr/guide-de-demarrage-en-r-markdown/ ; ou ce livre de référence : https://bookdown.org/yihui/rmarkdown-cookbook/. Pour Quarto, voir le site suivant : https://quarto.org/.↩︎"
+  },
+  {
+    "objectID": "etude_evaluer.html#footnotes",
+    "href": "etude_evaluer.html#footnotes",
+    "title": "Evaluer les informations",
+    "section": "",
+    "text": "Voir la formation du RCVS sur la lecture critique d’articles : https://learn.rcvsknowledge.org/mod/book/view.php?id=49&chapterid=42↩︎"
+  },
+  {
+    "objectID": "etude_source.html",
+    "href": "etude_source.html",
+    "title": "16  Sources des documents",
+    "section": "",
+    "text": "Pour chaque document, il convient dans un premier temps d’évaluer la qualité de sa source. S’agit-il d’un journal à comité de lecture ? S’agit-il d’un journal crédible ou d’un journal prédateur ? Quelle est la réputation du journal dans la discipline de l’étude ? De quand datent les études (par exemple avant ou après mise en œuvre de méthodes de diagnostiques plus efficaces si la question le nécessite)."
+  },
+  {
+    "objectID": "etude_objectif.html",
+    "href": "etude_objectif.html",
+    "title": "17  Objectif de l’étude",
+    "section": "",
+    "text": "Tout travail scientifique doit avoir un objectif précis et clairement énoncé, auquel le travail scientifique peut apporter une réponse. Cet objectif doit apparaître dans le résumé et en fin d’introduction. Le premier paragraphe de la discussion est habituellement une synthèse de ce que le travail a apporté en réponse à cet objectif.\nSi l’objectif n’est pas facile à identifier ou s’il n’est pas clair, le travail ne mérite pas d’être pris en considération."
+  },
+  {
+    "objectID": "etude_types.html#footnotes",
+    "href": "etude_types.html#footnotes",
+    "title": "18  Types d’études",
+    "section": "",
+    "text": "Ce type d’étude est par exemple utilisé par certains économistes, notamment ceux récompensés par le prix Nobel d’économie en 2019 : https://www.nature.com/articles/d41586-019-03125-y.↩︎"
+  },
+  {
+    "objectID": "etude_synthese.html",
+    "href": "etude_synthese.html",
+    "title": "19  Synthèses d’études antérieures",
+    "section": "",
+    "text": "Pour une même question, il est fréquent qu’une multitude d’études aient été conduites. Les revues systématiques sont des études dont l’objectif est de synthétiser tous les résultats de toutes les études disponibles sur une question. Ces revues systématiques peuvent inclure une méta-analyse qui permet de produire une estimation quantitative par l’utilisation de méthodes statistiques de pondération des résultats des études incluses. C’est la source d’informations idéale mais souvent non disponible malheureusement.\nComme évoqué plus haut, un enjeu majeur lors de la conduite d’une revue systématique est l’identification de toutes les études conduites sur la question d’intérêt. La recherche doit inclure les études publiées dans des journaux scientifiques et dans la littérature grise.\nOn attend des auteurs de revues systématiques qu’ils décrivent précisément le protocole utilisé pour l’identification puis la sélection des études incluses. Cela permet l’évaluation de la qualité, la réplication et l’éventuelle mise à jour de la revue systématique. Les guides PRISMA contiennent des recommandations pour la conduite de revues systématiques.\nEn médecine humaine, la référence en termes de revues systématiques est la collaboration Cochrane qui en a publié des centaines selon une méthodologie adaptée. En médecine vétérinaire, de plus en plus de revues systématiques sont publiées (par exemple Ariza et al. 2017; Dufour et al. 2019), mais il n’y a pas encore d’équivalent de la collaboration Cochrane.\n\n\n\n\nAriza, Juan M., Anne Relun, Nathalie Bareille, Kenny Oberle, and Raphaël Guatteo. 2017. “Effectiveness of Collective Treatments in the Prevention and Treatment of Bovine Digital Dermatitis Lesions: A Systematic Review.” Journal of Dairy Science 100 (9): 7401–18. https://doi.org/10.3168/jds.2016-11875.\n\n\nDufour, Simon, Vincent Wellemans, Jean-Philippe Roy, Pierre Lacasse, Alfredo Ordonez-Iturriaga, and David Francoz. 2019. “Non-Antimicrobial Approaches at Drying-Off for Treating and Preventing Intramammary Infections in Dairy Cows. Part 1. Meta-Analyses of Efficacy of Using an Internal Teat Sealant Without a Concomitant Antimicrobial Treatment.” Animal Health Research Reviews 20 (1): 86–97. https://doi.org/10.1017/S1466252319000070."
+  },
+  {
+    "objectID": "etude_hierarchie.html",
+    "href": "etude_hierarchie.html",
+    "title": "20  Hiérarchie de preuves",
+    "section": "",
+    "text": "Sur la base des 2 sections précédentes, un classement du niveau de preuve associé à différents types de sources peut être proposé. Ce type de classement est appelé en anglais hierarchy of evidence. Il n’a pas de valeur absolue, mais peut servir de base dans l’évaluation des informations trouvées.\n\n\n\nProposition de classement du niveau de preuve apporté par différent types de sources d’information (Hierarchy of evidence)."
+  },
+  {
+    "objectID": "etude_grilles.html#footnotes",
+    "href": "etude_grilles.html#footnotes",
+    "title": "21  Utilisation de guides pour l’évaluation",
+    "section": "",
+    "text": "Pour s’y retrouver dans les différents reporting guidelines, voir la page : https://www.equator-network.org/toolkits/selecting-the-appropriate-reporting-guideline/.↩︎\nGrilles d’évaluation des articles mises à disposition par l’université de Nottingham : https://www.nottingham.ac.uk/cevm/evidence-synthesis/resources.aspx.↩︎"
+  },
+  {
+    "objectID": "etude_statistiques.html",
+    "href": "etude_statistiques.html",
+    "title": "22  Usages et mésusages des statistiques",
+    "section": "",
+    "text": "Toutes les études scientifiques contiennent une ou plusieurs analyses statistiques des données. Ces analyses semblent souvent compliquées pour les non-spécialistes, ce qui rend difficile l’évaluation de leur pertinence, avec le risque de passer vite dessus (les fake news relatives au COVID-19 en sont une bonne preuve).\nDans les études évaluant l’efficacité préventive ou curative d’une pratique ou d’un traitement sur une maladie, on cherche à identifier l’effet causal de ce qui est évalué sur la maladie. Or, les analyses statistiques mesurent des associations, sans préjuger de la causalité. Un premier élément de mise en garde concerne donc l’interprétation qui est faite des analyses statistiques. Le fait que des phénomènes soient associés n’implique pas forcément que l’un soit la cause directe de l’autre, ni le sens dans lequel s’exerce la causalité lorsqu’elle est présente. Au-delà de la significativité statistique, la plausibilité des résultats doit toujours être considérée . Les analyses statistiques reposent pour la plupart sur un nombre restreint de principes qu’il convient de connaître.\nL’approche la plus communément suivie est de faire l’hypothèse que le traitement évalué n’a pas d’effet sur la maladie, ou que les différents traitements évalués ont une même probabilité de causer la guérison. On parle d’hypothèse nulle. Cette hypothèse nulle est traduite en distribution statistique. Par exemple, suite à un traitement curatif, on peut avoir une guérison (succès) ou une non guérison (échec). La distribution statistique utilisée est donc la distribution binomiale qui a pour paramètre \\(p\\), ici la probabilité de guérison. L’hypothèse nulle consiste à considérer que cette probabilité de guérison est la même pour les différents traitements. Lorsque l’un des traitements est un placébo, cela revient à évaluer si l’autre traitement a la moindre efficacité curative. Les tests statistiques évaluent donc la probabilité de mesurer la différence de taux de guérison observées dans les données si les 2 traitements avaient le même taux de guérison. Cette probabilité est ce qu’on appelle la valeur de p ou p-value en anglais. Notez qu’il s’agit d’une probabilité, non-nulle, de conclure à une différence d’efficacité entre traitements s’il n’y avait pas de différence entre ces traitements. Cela implique qu’il y a une certaine probabilité d’aboutir à une conclusion erronée, dans ce cas une probabilité d’un résultat faussement positif. On parle alors d’erreur de type I. Le seuil retenu pour conclure à une différence est appelé α. Si on retient 5% comme c’est souvent le cas, cela implique qu’en l’absence de différence entre traitements, on va conclure de manière erronée à l’existence d’une différence dans 5% des cas. Une conséquence d’importance pratique est que lorsqu’on a beaucoup de données, on peut tester de nombreuses associations avec des tests statistiques : sur 100 associations testées, 5 seront statistiquement significatives par chance, c’est-à-dire sans qu’il y ait de réelles relations entre les variables. Ce phénomène est connu sous le nom de problème des comparaisons multiples (Bennett, Miller, and Wolford 2009).\nPlus on diminue la valeur de α, c’est-à-dire plus on est strict sur le seuil pour conclure à l’existence d’une différence significative entre les 2 traitements, plus la probabilité de conclure à une absence de différence lorsque cette différence existe augmente. On parle dans ce cas d’erreur de type II. Pour estimer la probabilité d’une erreur de type II, il faut poser l’hypothèse alternative. Dans l’exemple développé ici, il faudrait faire une hypothèse sur le taux de guérison attendu lors de l’utilisation du traitement évalué. La capacité à détecter un effet lorsqu’il existe est appelée puissance statistique. La puissance augmente avec l’importance de l’effet mesuré (différence importante entre les taux de guérison entre les 2 traitements) et avec la taille de l’échantillon. Le tableau ci-dessous résume ces notions.\n\n\n\nPrincipe des tests d’hypothèse appliqué à la guérison d’une maladie en fonction du traitement. Les traitements A et B avec des taux de guérison respectifs \\(p_A\\) et \\(p_B\\) sont comparés. L’hypothèse nulle consiste à considérer que \\(p_A = p_B\\) et l’hypothèse alternative à considérer qu’ils sont différents. L’analyse statistique permet de conclure quant à l’existence d’une différence entre ces taux de guérison.\n\n\nLe lecteur formé à l’épidémiologie aura remarqué que :\n\nα = 1 - spécificité\nβ = 1 - sensibilité\n\nDans ce cas, la proportion d’hypothèses alternatives vraies parmi tous les résultats statistiquement significatifs est équivalente à une valeur prédictive positive. Plus la fréquence des cas où l’hypothèse nulle est vraie dans les hypothèses testées, plus cette valeur prédictive positive diminue, c’est-à-dire qu’on augmente la proportion de faux positifs (Ioannidis 2005).\nEn résumé de cette partie, les analyses statistiques utilisées dans les articles scientifiques peuvent parfois sembler compliquées. Quelques principes de base peuvent permettre de détecter bon nombre d’erreurs :\n\nles analyses statistiques mesurent des associations, pas la causalité. Au-delà de la significativité statistique, la plausibilité des résultats doit toujours être évaluée,\nles tests statistiques reposent sur l’évaluation de la probabilité d’observer les données sous des hypothèses de hasard et d’absence de différence entre traitements comparés. Plus on augmente le nombre de variables comparées et d’analyses, plus on augmente le risque d’obtenir des résultats faussement positifs.\n\n\n\n\n\nBennett, Craig M, Michael B Miller, and George L Wolford. 2009. “Neural Correlates of Interspecies Perspective Taking in the Post-Mortem Atlantic Salmon: An Argument for Multiple Comparisons Correction.” Neuroimage 47 (Suppl 1): S125.\n\n\nIoannidis, John P. A. 2005. “Why Most Published Research Findings Are False.” PLoS Medicine 2 (August): e124. https://doi.org/10.1371/journal.pmed.0020124."
+  },
+  {
+    "objectID": "integrer_evaluer.html",
+    "href": "integrer_evaluer.html",
+    "title": "Intégrer et évaluer",
+    "section": "",
+    "text": "Les 2 dernières étapes consistent à intégrer les résultats de l’évaluation à la pratique et à évaluer l’impact des changements opérés sur les résultats."
+  },
+  {
+    "objectID": "integration_pratique.html",
+    "href": "integration_pratique.html",
+    "title": "23  Intégrer les résultats à la pratique",
+    "section": "",
+    "text": "Une fois la synthèse des informations effectuées, les conclusions doivent en être intégrées à la pratique. Cela n’est pas toujours possible en l’état, ou bien des adaptations doivent être envisagées. Parmi les difficultés rencontrées, il est possible que les données disponibles ne soient pas adaptées aux cas rencontrés. Par exemple, beaucoup d’études sur les bovins à l’engraissement sont conduites en Amérique du Nord où les conditions d’élevage sont très différentes des conditions françaises. Dans ce cas, les résultats peuvent être difficilement extrapolables. Il peut aussi exister des difficultés réglementaires. Par exemple, les législations française et européennes peuvent imposer des restrictions sur l’usage de certaines antibiotiques, montrés comme étant les plus efficaces dans des pays dans lesquels ces restrictions n’existent pas. Bien entendu, le vétérinaire doit dans ce cas se conformer à la législation en vigueur dans son territoire d’exercice. Enfin, les questions des acceptabilités éthiques, écologiques et économiques doivent se poser. On se doit aussi de questionner sur la maîtrise technique du geste par exemple trouvé comme le plus efficace et le cas échéant référer."
+  },
+  {
+    "objectID": "evaluation_performance.html",
+    "href": "evaluation_performance.html",
+    "title": "24  Evaluer la performance",
+    "section": "",
+    "text": "L’impact de l’adoption d’une nouvelle pratique devrait être évalué par l’enregistrement systématique des informations qui sont pertinentes pour cette évaluation.\nLes logiciels métiers sont en ce sens une potentielle mine d’or. Comme déjà indiqué en médecine vétérinaire (en comparaison à la médecine humaine) on dispose parfois de peu d’articles, faute souvent de données (par exemple sur les maladies rares ou les espèces peu fréquentes). Enregistrer de façon systématique et standardisée les données cliniques du quotidien est la base indispensable pour faire progresser les connaissances médicales."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction à la médecine factuelle",
+    "section": "",
+    "text": "Préface\nCe document a été initialement rédigé à destination des étudiants vétérinaires d’Oniris. Il a été conçu pour servir de support à une semaine de mise en œuvre de la démarche médecine factuelle sur une question d’intérêt clinique, sur le modèle des Best BETs for Vets. Son objectif est d’introduire les notions fondamentales ainsi que quelques outils pour la médecine factuelle. Le document est volontairement court afin de couvrir l’essentiel, tout en pouvant être lu rapidement. Des notes de bas de page permettront aux lecteurs intéressés d’aller plus loin.\nDans un second temps, il nous a semblé intéressant de partager ce document à une échelle plus large. Il peut notamment servir de point d’entrée à des vétérinaires et autres professions médicales souhaitant identifier la meilleure conduite à tenir sur des pathologies précises, à partir de la littérature scientifique ; ou encore à des étudiants vétérinaires effectuant une synthèse bibliographique pour leur thèse.\nMerci à Géraldine Diez, à Laudy Serhal pour leur relecture et leurs suggestions. Merci également aux quelques Zétérinaires qui ont relu le manuscrit pour leurs encouragements et leurs suggestions.\nDocument crée avec Quarto. Image de couverture: a cow scientist, générée par DALL-E 2."
+  }
+]
