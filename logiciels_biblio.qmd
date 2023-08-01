@@ -1,0 +1,11 @@
+# Gestions des références bibliographiques
+
+Les logiciels de gestion bibliographiques permettent de :
+
+-	stocker des références bibliographiques,
+-	citer ces références dans un logiciel de traitement de texte (MS Word, LibreOffice, Google Docs),
+-	générer une liste des références citées dans un texte.
+
+Il en existe de nombreux, gratuits ou payants qui fonctionnent tous sur le même principe[^1]. Il s’agit en fait de bases de données qui stockent certaines métadonnées associées à chaque référence : type de ressource (article, livre…), auteurs, années de publication... Il est aussi possible d’associer des fichiers à ces références, tels que les articles ou les livres correspondants, qu’on peut alors ouvrir d’un simple clic sur la référence. Des modules associés au logiciel permettent d’importer les références directement depuis internet, ce qui évite de devoir entrer manuellement les références. Un module de citation existe pour la plupart des logiciels de traitement de texte. Celui-ci permet de citer les références lors de la rédaction, puis de générer une liste des références citées en fin de document.
+
+[^1]: Liste des logiciels de gestion bibliographiques recensés par Wikipédia : [https://fr.wikipedia.org/wiki/Logiciel_de_gestion_bibliographique](https://fr.wikipedia.org/wiki/Logiciel_de_gestion_bibliographique) 

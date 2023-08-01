@@ -1,0 +1,5 @@
+## Autres logiciels
+
+Le logiciel de traitement de texte $\LaTeX$ ainsi que les fichiers RMarkdown[^1] utilisent un format de références particulier appelé Bibtex. Pour le stockage et la citation de références au format Bibtex, le logiciel Jabref est une bonne alternative à Zotero.
+
+[^1]: Vous pourriez être amené à utiliser RMarkdown ou Quarto si vous utilisez R pour vos travaux de thèse. Le présent document a été produit en utilisant Quarto. Si vous voulez savoir ce qu’est RMarkdown, voir cette introduction : [https://delladata.fr/guide-de-demarrage-en-r-markdown/](https://delladata.fr/guide-de-demarrage-en-r-markdown/) ; ou ce livre de référence : [https://bookdown.org/yihui/rmarkdown-cookbook/](https://bookdown.org/yihui/rmarkdown-cookbook/). Pour Quarto, voir le site suivant : [https://quarto.org/](https://quarto.org/).

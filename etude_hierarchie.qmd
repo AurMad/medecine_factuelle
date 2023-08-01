@@ -1,0 +1,5 @@
+## Hiérarchie de preuves
+
+Sur la base des 2 sections précédentes, un classement du niveau de preuve associé à différents types de sources peut être proposé. Ce type de classement est appelé en anglais *hierarchy of evidence*. Il n’a pas de valeur absolue, mais peut servir de base dans l’évaluation des informations trouvées.
+
+![Proposition de classement du niveau de preuve apporté par différent types de sources d'information (Hierarchy of evidence).](figs/hierarchie_preuves.png)

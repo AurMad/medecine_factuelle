@@ -1,0 +1,6 @@
+# Intégrer les résultats à la pratique
+
+Une fois la synthèse des informations effectuées, les conclusions doivent en être intégrées à la pratique. Cela n’est pas toujours possible en l’état, ou bien des adaptations doivent être envisagées. 
+Parmi les difficultés rencontrées, il est possible que les données disponibles ne soient pas adaptées aux cas rencontrés. Par exemple, beaucoup d’études sur les bovins à l’engraissement sont conduites en Amérique du Nord où les conditions d’élevage sont très différentes des conditions françaises. Dans ce cas, les résultats peuvent être difficilement extrapolables.
+Il peut aussi exister des difficultés réglementaires. Par exemple, les législations française et européennes peuvent imposer des restrictions sur l’usage de certaines antibiotiques, montrés comme étant les plus efficaces dans des pays dans lesquels ces restrictions n’existent pas. Bien entendu, le vétérinaire doit dans ce cas se conformer à la législation en vigueur dans son territoire d’exercice.
+Enfin, les questions des acceptabilités éthiques, écologiques et économiques doivent se poser. On se doit aussi de questionner sur la maîtrise technique du geste par exemple trouvé comme le plus efficace et le cas échéant référer.

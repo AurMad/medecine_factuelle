@@ -1,0 +1,5 @@
+# Evaluer les informations
+
+Bien que la plupart des informations que vous allez trouver aient été évaluées par des spécialistes, toutes n’ont pas le même degré de fiabilité. La lecture critique d’articles[^1] est une étape essentielle de l’EBVM. Un autre élément important à prendre en compte est le fait que toutes les études conduites ne sont pas publiées.
+
+[^1]: Voir la formation du RCVS sur la lecture critique d’articles : [https://learn.rcvsknowledge.org/mod/book/view.php?id=49&chapterid=42](https://learn.rcvsknowledge.org/mod/book/view.php?id=49&chapterid=42)

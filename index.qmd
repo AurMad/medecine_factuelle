@@ -1,0 +1,9 @@
+# Préface {.unnumbered}
+
+Ce document a été initialement rédigé à destination des étudiants vétérinaires d'[Oniris](https://www.oniris-nantes.fr/). Il a été conçu pour servir de support à une semaine de mise en œuvre de la démarche *médecine factuelle* sur une question d'intérêt clinique, sur le modèle des [Best BETs for Vets](https://bestbetsforvets.org/). Son objectif est d'introduire les notions fondamentales ainsi que quelques outils pour la médecine factuelle. Le document est volontairement court afin de couvrir l'essentiel, tout en pouvant être lu rapidement. Des notes de bas de page permettront aux lecteurs intéressés d'aller plus loin.
+
+Dans un second temps, il nous a semblé intéressant de partager ce document à une échelle plus large. Il peut notamment servir de point d'entrée à des vétérinaires et autres professions médicales souhaitant identifier la meilleure conduite à tenir sur des pathologies précises, à partir de la littérature scientifique ; ou encore à des étudiants vétérinaires effectuant une synthèse bibliographique pour leur thèse.
+
+Merci à Géraldine Diez, à Laudy Serhal pour leur relecture et leurs suggestions. Merci également aux quelques [Zétérinaires](https://www.zeterinaires.fr/nofakemed/) qui ont relu le manuscrit pour leurs encouragements et leurs suggestions.
+
+Document crée avec [Quarto](https://quarto.org/). Image de couverture: *a cow scientist*, générée par [DALL-E 2](https://openai.com/dall-e-2).

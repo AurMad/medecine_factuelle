@@ -1,0 +1,16 @@
+---
+editor: 
+  markdown: 
+    wrap: sentence
+---
+
+## Synthèses d'études antérieures {#sec-etude}
+
+Pour une même question, il est fréquent qu'une multitude d'études aient été conduites.
+Les revues systématiques sont des études dont l'objectif est de synthétiser tous les résultats de toutes les études disponibles sur une question. Ces revues systématiques peuvent inclure une méta-analyse qui permet de produire une estimation quantitative par l'utilisation de méthodes statistiques de pondération des résultats des études incluses. C'est la source d'informations idéale mais souvent non disponible malheureusement.
+
+Comme évoqué plus haut, un enjeu majeur lors de la conduite d'une revue systématique est l'identification de toutes les études conduites sur la question d'intérêt. La recherche doit inclure les études publiées dans des journaux scientifiques et dans la littérature grise.
+
+On attend des auteurs de revues systématiques qu'ils décrivent précisément le protocole utilisé pour l'identification puis la sélection des études incluses. Cela permet l'évaluation de la qualité, la réplication et l'éventuelle mise à jour de la revue systématique. Les [guides PRISMA](http://www.prisma-statement.org/) contiennent des recommandations pour la conduite de revues systématiques. 
+
+En médecine humaine, la référence en termes de revues systématiques est la [collaboration Cochrane](https://www.cochrane.org/) qui en a publié des centaines selon une méthodologie adaptée. En médecine vétérinaire, de plus en plus de revues systématiques sont publiées [par exemple @Ariza2017; @Dufour2019], mais il n'y a pas encore d'équivalent de la collaboration Cochrane.

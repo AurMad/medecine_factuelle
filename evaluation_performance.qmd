@@ -1,0 +1,5 @@
+# Evaluer la performance
+
+L’impact de l’adoption d’une nouvelle pratique devrait être évalué par l’enregistrement systématique des informations qui sont pertinentes pour cette évaluation.
+
+Les logiciels métiers sont en ce sens une potentielle mine d’or. Comme déjà indiqué en médecine vétérinaire (en comparaison à la médecine humaine) on dispose parfois de peu d’articles, faute souvent de données (par exemple sur les maladies rares ou les espèces peu fréquentes). Enregistrer de façon systématique et standardisée les données cliniques du quotidien est la base indispensable pour faire progresser les connaissances médicales.

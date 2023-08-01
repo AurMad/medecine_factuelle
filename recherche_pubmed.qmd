@@ -1,0 +1,10 @@
+## Qu'est-ce que PubMed ?
+
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/) est une base de données qui recense des articles et ouvrages en sciences de la vie et en médecine[^1]. L’organisme qui gère cette base de données est le National *Center for Biotechnology Information* (NCBI) du *U.S. National Library of Medicine* (NLM), qui sont des entités publiques des Etats-Unis d’Amérique. PubMed agrège les références bibliographiques de 3 autres bases de données : Medline, PubMed central et Bookshelf.
+
+Medline est la base de données principale qui référence tous les articles publiés dans une liste de journaux sélectionnés par un comité d’experts. En 2022, 5 200 journaux sont inclus[^2]. Les articles référencés par Medline ont la particularité d’avoir été indexés avec des mots-clés appelés MeSH (pour *Medical Subject Headings*) terms[^3]. Medline ne contient pas les articles, mais inclut souvent des liens hypertextes vers les articles complets. 
+PubMed Central contient les textes complets de certains articles sélectionnés ou mis en ligne pour satisfaire aux exigences de certains financements. Bookshelf contient les références de livres ou de chapitres de livres.
+
+[^1]: Pour une description détaillée de PubMed (en anglais), voir la vidéo suivante : [https://www.nlm.nih.gov/oet/ed/pubmed/quicktours/whatsin/index.html](https://www.nlm.nih.gov/oet/ed/pubmed/quicktours/whatsin/index.html)
+[^2]: Plus détails sur Medline et le processus de sélection de journaux à l’adresse suivante : [https://www.nlm.nih.gov/medline/medline_overview.html](https://www.nlm.nih.gov/medline/medline_overview.html)
+[^3]: Une série de vidéos en français sur les MeSH : [https://youtu.be/PBbtR4E1XME](https://youtu.be/PBbtR4E1XME) 

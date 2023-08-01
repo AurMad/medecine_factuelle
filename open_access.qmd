@@ -1,0 +1,8 @@
+## Qu’est-ce que l’*open-access* ?
+
+Par le passé, les journaux et les articles qu’ils contiennent étaient disponibles sur abonnement. C’est le lecteur qui payait pour les journaux qui l’intéressaient. Depuis une quinzaine d’années, un modèle dit en accès-libre (*open-acess*) s’est développé. Dans ce cas, ce n’est plus le lecteur qui paye pour la publication du journal, mais les auteurs pour la publication de leur article accepté. La logique de ce changement de modèle économique a été de se dire que les connaissances produites, notamment avec de l’argent public, était un bien commun, qui devrait donc être accessible à tous[^1]. Dans ce cas, les frais de publication[^2] sont transférés des lecteurs aux auteurs.
+
+A l’heure actuelle, les articles disponibles sur abonnement et en accès libre coexistent. Les journaux historiques proposent un accès via abonnement ou en accès libre lorsque les auteurs acceptent de payer. Certains journaux plus récents ne publient qu’en accès libre. Les universités et grandes écoles françaises paient habituellement des abonnements qui permettent aux étudiants d’avoir accès à la plupart des articles dont ils ont besoin.
+
+[^1]: Parmi les pionniers dans ce domaine figure le journal PLOS One. PLOS pour Public Library Of Science. Journal créé en 2006 qui ne publie que des articles en open-access. Voir [le site du journal](https://journals.plos.org/plosone/).
+[^2]: Appelés APC pour *article processing charges*. Habituellement entre 1 500 et 3 000€.

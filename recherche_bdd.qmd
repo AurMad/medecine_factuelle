@@ -1,0 +1,17 @@
+## Bases de données
+
+Il existe un certain nombre de bases de données en ligne agrégeant des références bibliographiques d’intérêt vétérinaire. On peut citer PubMed, Web of Science, Scopus, Science Direct, CAB Abstracts, Google Scholar... Une étude de la couverture des journaux d’intérêt vétérinaire par différentes bases de données a montré CAB Abstracts était la plus complète [@Grindlay2012]. L’accès à cette base de données est toutefois payant et donc difficile pour les praticiens. Nous allons donc nous concentrer sur Pubmed parce que :
+
+- La base de données est interrogeable gratuitement,
+- Il est possible de construire des requêtes structurées[^1] et répétables
+
+Parmi les autres bases de données on peut citer :
+
+-	[Web of Science](https://www.webofscience.com/) : l’une des bases de données les plus complètes. Appartient à Clarivate.
+-	[Science Direct](https://www.sciencedirect.com/) : base de données et accès aux ressources de l’éditeur Elsevier.
+-	[Scopus](https://www.scopus.com/) : base de données de l’éditeur Elsevier. Inclut plus de ressources que Science Direct, notamment des documents non édités par Elsevier.
+-	[Google Scholar](https://scholar.google.com/) : permet l’identification de ressources scientifiques à l’aide du moteur de recherche Google. L’interface est assez intuitive à utiliser. Inclut un grand nombre de ressources de qualités inégales. 
+
+Un inconvénient majeur de certaines de ces bases de données pour les revues systématiques (notamment Google Scholar et Web of Science) est que les résultats des requêtes ne sont pas forcément reproductibles d’un utilisateur à l’autre [@Pozsgai2021].
+
+[^1]: Aussi appelées équations de recherche.

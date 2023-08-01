@@ -1,0 +1,11 @@
+## Citer et générer une liste de références
+
+Lorsque vous installez Zotero, une extension est ajoutée à votre logiciel de traitement de texte. Dans Microsoft Word un nouvel onglet apparait dans le ruban :
+
+![](figs/zotero_onlget_word.png)
+
+Lorsqu’on clique sur *Add/Edit Citation*, une barre de recherche apparaît. En entrant des mots-clés en lien avec la référence souhaitée, une liste de références apparaît. La ou les références sélectionnées apparaissent en tant que citations dans le texte.
+
+![](figs/zotero_citation.png)
+
+La dernière étape consiste à générer la liste des références citées. Pour cela, cliquer sur *Add/Edit Bibliography*. En cliquant sur *Document Preferences* dans l’onglet Zotero, il est possible de changer le style de citation.

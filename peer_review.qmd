@@ -1,0 +1,16 @@
+## Qu’est-ce que la relecture par les pairs ?
+
+Ce qui distingue les articles scientifiques d’autres sources d’information est ce qu’on appelle la relecture par les pairs, en anglais *peer-review*. Cette relecture par les pairs est un processus qualité destiné à faire en sorte que ne soient publiés que des faits dûment évalués par des spécialistes.
+
+Le processus est le suivant. A l’issue de l’obtention des résultats d’une étude, les scientifiques[^1] rédigent un manuscrit pour publication dans une revue ciblée au préalable. Ce manuscrit est soumis à la revue, de nos jours grâce à une procédure en ligne. Le manuscrit soumis est réceptionné par un éditeur qui évalue l’acceptabilité du manuscrit pour le journal en termes de thématique. Si le sujet de l’article est jugé acceptable pour le journal, l’éditeur identifie des experts du sujet et les contacte pour qu’ils évaluent l’article. En quelques jours à quelques semaines, les relecteurs qui ont accepté la sollicitation[^2]  doivent soumettre un rapport à l’éditeur. L’objectif est habituellement d’avoir 2 ou 3 rapports pour un article. Pour éviter tout conflit d’intérêt, les relecteurs sont habituellement anonymes, c’est-à-dire que seul l’éditeur connaît leur identité. Les relecteurs ne sont pas non plus payés. Une fois les rapports reçus, l’éditeur les synthétise et peut aboutir à 4 types de décisions :
+
+-	**Rejet de l’article :** le manuscrit est jugé de qualité insuffisante pour le journal. Il ne sera pas publié. Les auteurs peuvent toutefois le retravailler et le soumettre à un autre journal.
+-	**Révisions majeures :** le manuscrit contient des éléments intéressants et valides, mais aussi certains problèmes qui ne permettent pas de dire s’il pourra ou non être publié. Les auteurs doivent répondre aux remarques des relecteurs point par point. L’éditeur renvoie le manuscrit modifié et les réponses des auteurs aux relecteurs pour avis, puis statue à nouveau sur le manuscrit.
+-	**Révisions mineures :** le manuscrit est globalement de bonne qualité. Les auteurs doivent toutefois répondre à quelques remarques des relecteurs et apporter des modifications mineures au manuscrit.
+-	**Article accepté :** le manuscrit est jugé comme étant de qualité suffisante pour être publié dans le journal.
+
+Il y a souvent plusieurs allers et retours entre les auteurs et les relecteurs avant qu’un article soit accepté[^3].
+
+[^1]: Cela pourrait être vous, par exemple si vous souhaitez publier les résultats de vos travaux de thèse.
+[^2]: Communément appelé *reviewer* par les évalués francophones.
+[^3]: Pour des exemples de relecture par les pairs, vous pouvez consulter le site de Peer Community In (PCI). PCI n’est pas un journal, mais un dispositif d’évaluation dont les objectifs sont d’être transparent, ouvert et gratuit. Le processus est identique au peer-review traditionnel. Sur le site, vous trouverez des exemples d’échanges entre auteurs, relecteurs et éditeur (appelé ici recommenders). Voir par exemple (au hasard) [ici](https://animsci.peercommunityin.org/articles/rec?id=11). Les articles recommandés peuvent ensuite être publiés dans un journal : [ici](https://peercommunityjournal.org/articles/10.24072/pcjournal.80/) 

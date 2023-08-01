@@ -1,0 +1,3 @@
+# Formuler une question
+
+Afin de trouver toutes les informations pertinentes et utiles pour déterminer la meilleure conduite à tenir, il est nécessaire de formuler une question précise à partir du contexte clinique d'intérêt. L'acronyme PICO encapsule un certain nombre de règles qui permettent de formuler cette question, qui servira ensuite à construire les requêtes d'interrogation des bases de données.

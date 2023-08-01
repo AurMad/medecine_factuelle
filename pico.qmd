@@ -1,0 +1,72 @@
+## PICO
+
+La question provient habituellement d'un besoin ou d'une interrogation
+de terrain concernant la meilleure pratique à adopter pour prévenir ou
+guérir un trouble de santé. Si la question est trop imprécise, il ne
+sera pas possible d'y apporter une réponse pertinente. Par exemple, si
+on souhaite identifier les meilleures pratiques permettant de prévenir
+l'apparition de boiteries chez les bovins, on va devoir se restreindre
+aux boiteries avec une origine infectieuse comme la dermatite digitale
+ou à l'opposé de problèmes ayant une origine mécanique et/ou métabolique
+comme la maladie de la ligne blanche par exemple. Si ces différentes
+maladies sont mélangées, on risque de trouver un nombre important de
+ressources, sans grande cohérence car mélangeant des problèmes
+différents aux origines différentes. Des connaissances minimales
+préalables sont ainsi nécessaires à une formulation concise et précise
+de la question.
+
+Il convient aussi de bien définir la population d'intérêt. Typiquement,
+les vaches laitières et les vaches allaitantes sont élevées dans des
+environnements différents ; les animaux des élevages intensifs qui ont
+des productions élevées et passent beaucoup de temps en bâtiments sont
+soumis à des risques et contraintes différents des animaux issus
+d'élevages extensifs qui pâturent en moyenne plus. Des chiens d'une race
+donnée peuvent être plus à risque de certaines maladies. De même le
+stade physiologique (chatte gestante ou non, vache en lactation ou vache
+tarie, animal pubère ou non) peut influer. Des mesures pertinentes dans
+une population pourraient ne pas l'être dans une autre. Par ailleurs,
+les animaux sains ne permettent pas d'évaluer des mesures curatives et
+les animaux déjà malades ne peuvent pas être utilisés pour évaluer des
+pratiques ou traitements préventifs. Une question fréquemment posée en
+clientèle est ainsi : Docteur, dois-je stériliser ma chienne ? La
+réponse pourrait ainsi être différente selon qu'on a affaire à une
+chienne avant ou après ses premières chaleurs, obèse ou non. Il faut
+donc d'abord définir le plus précisément possible le Patient ou la
+Population (P).
+
+Un autre point à considérer est que toute évaluation nécessite une
+comparaison. La meilleure façon de s'en rendre compte est de constater
+que beaucoup de maladies guérissent spontanément à l'issue d'une période
+plus ou moins longue. Sauf cas particulier, la mise en place d'un
+traitement de façon systématique lors de l'apparition d'un trouble de
+santé ne permet pas de dire ce qui se serait passé si on n'avait rien
+fait. Il convient donc de définir une référence. Ce type de
+considération est à relier à la notion de causalité en épidémiologie. Si
+on reprend l'exemple de la stérilisation de la chienne, qu'entend le
+propriétaire par stérilisation : hormonale ou chirurgicale ? Quelles
+sont les alternatives à envisager, et en conséquence, quelles sont les
+comparaisons pertinentes : stérilisation chirurgicale comparée à ne rien
+faire, ou bien, stérilisation chirurgicale comparée à un traitement
+hormonal. Les réponses seront forcément différentes pour une question,
+qui pour le propriétaire semble identique. Il faut donc ensuite définir
+le plus précisément l'Intervention (I) à évaluer et la méthode à
+laquelle la Comparer (C).
+
+Enfin, l'issue d'intérêt doit être précisée. S'agit-il de la guérison
+clinique, de la guérison bactériologique ou virale en cas d'infection,
+de la survie, de la production... ? Dans un contexte d'élevage,
+c'est-à-dire avec une finalité économique, la production ultérieure des
+animaux peut-être un critère primordial à prendre en compte dans un
+choix de traitement. Pour notre chienne devant être stérilisée,
+parle-t-on de survenue de troubles de la reproduction, de tumeurs
+mammaires, de prise de poids, de survie ? Il s'agit ainsi enfin de
+définir l'issue à évaluer (Outcome en anglais -- O) Les différentes
+règles pour la formulation d'une question en EBVM peuvent être résumées
+avec l'acronyme PICO, explicité dans le tableau ci-dessous :
+
+|                     | Définition            | Explication                                             | Exemple 1                                                                        | Exemple 2                                                                             | Exemple 3                             |
+|----|-----------|----------------|---------------|---------------|------------|
+| [**P**]{.underline} | Patient / Population  | Quels sont les patients ou la population d'intérêt ?    | Vaches en lactation avec un score de locomotion \< 2                             | Vaches avec une infection intramammaire au dernier contrôle laitier avant tarissement | Chiennes pubères                      |
+| [**I**]{.underline} | Intervention          | Quelle est l'intervention évaluée ?                     | Passage dans une solution de sulfate de cuivre en pédiluve deux fois par semaine | Traitement avec antibiotique A                                                        | Administration d'acétate de mégestrol |
+| [**C**]{.underline} | Comparaison / Control | Quel est l'intervention ou le traitement de référence ? | Parage préventif                                                                 | Traitement avec antibiotique B                                                        | Ovariectomie                          |
+| [**O**]{.underline} | Outcome               | Quelles est l'issue d'intérêt ?                         | Présence de lésions de dermatite digitale détectées au parage                    | Culture de bactéries dans des échantillons de lait collectés après vêlage             | Survenue de tumeurs mammaires         |

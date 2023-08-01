@@ -1,0 +1,21 @@
+## Trouver des articles avec PubMed
+
+Les recherches sur PubMed se font à partir de la page suivante : [https://pubmed.ncbi.nlm.nih.gov/](https://pubmed.ncbi.nlm.nih.gov/). La page contient une barre de recherche dans laquelle on saisit les termes recherchés (à identifier à partir du PICO). Les enjeux de la recherche sont de trouver tous les articles pertinents sur la question d’intérêt (sensibilité) tout en obtenant le moins d’articles non pertinents possibles (spécificité). Pour effectuer une recherche, on suggère de procéder comme suit :
+
+Saisir une requête avec les mots-clés souhaités dans la barre de recherche puis cliquer sur Search.
+![](figs/PubMed_search_bar.png)
+
+La requête retourne un certain nombre d’articles sous la forme suivante :
+
+![](figs/PubMed_simple_query_result.png)
+
+En cliquant sur advanced, il est possible de voir comment PubMed a interprété la requête :
+
+![](figs/PubMed_advanced_query_result.png)
+
+On peut alors éditer cette requête pour y inclure des termes supplémentaires ou pour exclure (avec l’opérateur NOT) des termes qui concernent des articles qui ne correspondent pas à la question d’intérêt.
+
+Lorsque la requête a été finalisée et que la liste de références obtenue est jugée convenable, il est possible d’exporter ces références. Pour cela, cliquer sur *Send to* puis, dans la liste déroulante, sur *Citation manager*. Plus tard, nous verrons comment importer ces références dans un logiciel de gestion bibliographique.
+
+![](figs/PubMed_export.png)
+

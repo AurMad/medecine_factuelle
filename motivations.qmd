@@ -1,0 +1,14 @@
+## Pourquoi apprendre la démarche EBVM ?
+
+La capacité à acquérir de nouvelles connaissances ou à mettre à jour vos connaissances fera de vous de meilleurs praticiens et de meilleurs vétérinaires en général. Cela vous aidera à prendre de meilleures décisions pour vos patients et vos clients et à prendre du recul par rapport à des argumentations parfois trop peu étayées. En outre, il s’agit également de répondre à des exigences à la fois du référentiel de compétences vétérinaires et du code de déontologie vétérinaire détaillées ci-dessous.
+
+Le *référentiel d’activité professionnelle et de compétences à l’issue des études vétérinaires*[^1] mentionne la médecine factuelle dans la macro compétence *Agir en scientifique*. En fin d’enseignement de tronc commun, l’étudiant doit ainsi savoir «Appliquer la médecine fondée sur les preuves sur des ressources déjà existantes» et «Appliquer la médecine fondée sur les preuves dans la prise de décision clinique et thérapeutique».
+
+Mais au-delà du référentiel lors de vos études, l’approche EBVM est également citée dans la version de 2015 du code de déontologie vétérinaire  qui mentionne ainsi parmi les obligations du vétérinaire :
+
+-	**Article R. 242-33 – XII.** *Le vétérinaire acquiert l’information scientifique nécessaire à son exercice professionnel, en tient compte dans l’accomplissement de sa mission, entretient et perfectionne ses connaissances.* 
+-	**Article R. 242-35 – Communication et information.** *[…] La communication du vétérinaire ne doit pas porter atteinte au respect du public ni à la dignité de la profession. Toute communication préserve le secret professionnel auquel les vétérinaires sont tenus. Elle doit être loyale, honnête, et scientifiquement étayée. Elle ne doit pas induire le public en erreur, abuser sa confiance ou exploiter sa crédulité, son manque d’expérience ou de connaissances. Quand le vétérinaire fait état d’aptitudes professionnelles ou de capacités techniques, il doit être en mesure de les justifier. Il ne peut utiliser de procédés comparatifs ou utiliser le témoignage de tiers. […]*
+
+Les compétences acquises vous aideront également à effectuer les recherches bibliographiques pour vos thèses et travaux scientifiques.
+
+[^1]: Ce référentiel peut être téléchargé depuis l'adresse suivante : [https://en.agreenium.fr/node/1287](https://en.agreenium.fr/node/1287)

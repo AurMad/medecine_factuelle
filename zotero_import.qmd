@@ -1,0 +1,46 @@
+## Importer des références
+
+### Importer des références avec le connecteur Zotero
+
+La façon la plus pratique et la plus rapide d’importer des références dans le logiciel est via l’utilisation d’un bouton d’import dans votre navigateur internet. Pour cela, un module d’import doit être installé. La procédure d’installation est la suivante. Dans la barre de menus du logiciel Zotero, cliquez sur *Outils / Installer le Connecteur Zotero* dans le Navigateur. Lorsque vous cliquez sur ce menu, une page internet s’ouvre dans votre navigateur par défaut. Cliquez sur *Install*.
+
+![](figs/zotero_connecteur.png)
+
+Une fois le connecteur installé, il devient possible d’importer des références d’articles depuis la page PubMed ou la page internet de l’article en cliquant sur le bouton du connecteur Zotero. L’import nécessite que Zotero soit ouvert.
+
+![](figs/zotero_connecteur_import.png)
+
+Lorsque vous cliquez sur le bouton du connecteur, le cadre ci-dessous apparaît :
+
+![](figs/zotero_import_ioannidis.png)
+
+Vous pouvez vérifier dans Zotero que la référence a bien été importée :
+
+![](figs/zotero_import_verif.png)
+
+###	Saisir des références manuellement
+
+Il est possible d’entrer des références manuellement en cliquant sur le *+* vert au-dessous de la barre de menus. Une fois le type de référence sélectionné, les différents champs sont à renseigner. Noter que les articles scientifiques sont à saisir en tant qu’articles de revues.
+
+![](figs/zotero_import_manuel.png)
+
+### Importer une liste de références existante
+
+Il est possible d’importer des références exportées depuis un autre logiciel ou exportées depuis un site internet tel que PubMed. Reprenons le fichier exporté depuis PubMed plus haut. Cliquez sur *Fichier / Importer*.
+
+![](figs/zotero_import_liste_refs.png)
+
+Sélectionnez la première modalité d’import.
+
+![](figs/zotero_import_liste_fichier.png)
+
+Sélectionnez votre fichier.
+
+![](figs/zotero_import_liste_fichier_1.png)
+
+Sélectionnez la première possibilité.
+
+![](figs/zotero_import_liste_fichier_2.png)
+Vous pouvez vérifier que les références ont été importées dans Zotero, et placées dans une nouvelle collection qui porte le nom du fichier depuis lequel l’import a été réalisé. Il est possible de renommer cette collection ou de copier-coller les références dans un autre emplacement.
+
+![](figs/zotero_import_liste_fichier_3.png)

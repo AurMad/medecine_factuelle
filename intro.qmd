@@ -1,0 +1,3 @@
+# Introduction
+
+Cette partie présente la médecine factuelle, décrit brièvement les différentes étapes requises pour la mise en œuvre de cette démarche en réponse à une question clinique et justifie son intérêt pour des vétérinaires praticiens.

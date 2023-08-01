@@ -1,0 +1,10 @@
+## Zotero
+
+Ici, nous présentons le logiciel Zotero qui est gratuit et largement utilisé. Pour télécharger ce logiciel, rendez vous sur la page suivante : [https://www.zotero.org/download/](https://www.zotero.org/download/). Une fois le logiciel installé et ouvert, l’interface est la suivante :
+
+![](figs/zotero_interface.png)
+
+-	En haut : barre de menus qui vous permet d’accéder à différentes commandes
+-	Panneau de gauche : panneau de navigation dans la bibliothèque
+-	Panneau du milieu : liste de références
+- Panneau de droite : détail de la référence sélectionnée

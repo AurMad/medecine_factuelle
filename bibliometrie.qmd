@@ -1,0 +1,11 @@
+## Indicateurs de qualité des journaux scientifiques
+
+Les journaux scientifiques n’ont pas tous la même renommée et la qualité des articles qu’on y trouve peut être variable selon le journal. Par ailleurs, dans la majorité des pays, les chercheurs sont évalués sur la qualité de leurs recherches, mesurée entre autres par le nombre de publications et la renommée des journaux dans lesquels se font ces publications. Les scientifiques ont donc intérêt à publier dans les journaux les plus prestigieux.
+
+Divers indicateurs sont utilisés pour mesurer la renommée des journaux, ainsi que celles des scientifiques. La plupart de ces indicateurs sont basés sur le nombre de citations engrangées par les articles, c’est-à-dire le nombre de fois où un article a été cité dans un autre article. C’est l’objet de travail d’un champ disciplinaire appelé bibliométrie.
+L’indicateur le plus connu est appelé facteur d’impact ou *impact factor* en anglais. Le principe de son calcul est le suivant :
+
+-	Dénominateur : tous les articles publiés dans un journal d’intérêt dans les années $n-1$ et $n-2$.
+-	Numérateur : pour les articles du dénominateur, nombre de citations dans l’année $n$, dans une liste de journaux pris en compte.
+
+Plus un journal a un facteur d’impact élevé, plus les articles qu’il publie sont cités, ce qui intuitivement indique que les articles publiés sont de bonne qualité. Ce critère est toutefois parfois critiqué pour plusieurs raisons. D’une part, la tentation est grande de publier des découvertes sensationnelles pour accroitre le nombre de citations, en étant complaisant sur certaines erreurs méthodologiques. D’autre part, ce facteur d’impact n’est valide qu’à l’intérieur d’une thématique. En effet, plus un sujet est recherché est actif, plus le nombre de publications et donc de citations qui y sont associées sont importants.

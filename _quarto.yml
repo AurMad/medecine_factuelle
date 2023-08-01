@@ -1,0 +1,72 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Introduction à la médecine factuelle"
+  author: "Aurélien Madouasse & Raphaël Guatteo"
+  date: "Septembre 2023"
+  cover-image: figs/cow_scientist_black_and_white.png
+  page-footer:
+    left: |
+      Introduction à la médecine factuelle
+    right: |
+      A. Madouasse & R. Guatteo
+
+  chapters:
+      - index.qmd
+
+      - part: intro.qmd
+        chapters: 
+          - definition.qmd
+          - motivations.qmd
+      - part: question.qmd
+        chapters: 
+          - pico.qmd
+      - part: info.qmd
+        chapters: 
+          - peer_review.qmd
+          - bibliometrie.qmd
+          - open_access.qmd
+          - predateur.qmd
+      - part: recherche_info.qmd
+        chapters: 
+          - recherche_bdd.qmd
+          - recherche_pubmed.qmd
+          - recherche_pubmed_comment.qmd
+          - recherche_tri_docs.qmd
+      - part: logiciels_biblio.qmd
+        chapters:
+          - zotero_intro.qmd
+          - zotero_import.qmd
+          - zotero_citation.qmd
+          - logiciels_biblio_autres.qmd
+      - part: etude_evaluer.qmd
+        chapters:
+            - etude_source.qmd
+            - etude_objectif.qmd
+            - etude_types.qmd
+            - etude_synthese.qmd
+            - etude_hierarchie.qmd
+            - etude_grilles.qmd
+            - etude_statistiques.qmd
+
+      - part: integrer_evaluer.qmd
+        chapters:
+            - integration_pratique.qmd
+            - evaluation_performance.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    crossref:
+       chapters: true
+    grid:
+       sidebar-width: 350px
+       body-width: 900px
+
+
+
+

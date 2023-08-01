@@ -1,0 +1,10 @@
+## Utilisation de guides pour l’évaluation
+
+Selon le type d’étude, des guides ont été développés d’une part pour la description du protocole d’étude par les auteurs et d’autre part pour l’évaluation des articles par les lecteurs.
+
+Les guides de description des protocoles sont appelés *reporting guidelines* en anglais[^1]. Ces guides peuvent êtres utilisés par les lecteurs pour s’assurer qu’un article contient les informations nécessaires à son évaluation et que l’étude a été bien conduite.
+
+Des grilles d’évaluation des articles ont été développées pour différents types d’études. En anglais, on parle de critical appraisal sheets. En médecine vétérinaire, de telles grilles sont disponibles sur le site internet du centre for evidence-based veterinary medicine de l’université de Nottingham[^2]. 
+
+[^1]: Pour s’y retrouver dans les différents reporting guidelines, voir la page  : [https://www.equator-network.org/toolkits/selecting-the-appropriate-reporting-guideline/](https://www.equator-network.org/toolkits/selecting-the-appropriate-reporting-guideline/).
+[^2]: Grilles d’évaluation des articles mises à disposition par l’université de Nottingham : [https://www.nottingham.ac.uk/cevm/evidence-synthesis/resources.aspx](https://www.nottingham.ac.uk/cevm/evidence-synthesis/resources.aspx).

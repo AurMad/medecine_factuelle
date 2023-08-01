@@ -1,0 +1,8 @@
+## Qu’est-ce qu’un journal prédateur ?
+
+Lorsque les journaux étaient disponibles pour les seuls abonnés, la qualité des articles était un critère déterminant pour la souscription d’un abonnement. Tout journal scientifique avait alors intérêt à maintenir une bonne réputation auprès de sa communauté de lecteurs. Le modèle open-access a changé la donne. Désormais, même en l’absence d’abonnement, un journal peut être profitable si suffisamment d’auteurs y voient leurs articles publiés. Les scientifiques étant notamment évalués[^1]  sur leur nombre de publications, il peut être tentant pour certaines maisons d’éditions peu scrupuleuses d’avoir un processus de relecture inexistant ou très léger pour engranger l’argent des auteurs, quelle que soit la qualité de la publication[^2].
+
+Au final il s’agit dans la mesure du possible de privilégier des articles issus de journaux bien connus pour leur qualité (par exemple dans le premier quartile du domaine concerné).
+
+[^1]: En France, les auteurs **ne perçoivent pas** d’argent lorsqu’ils publient un article. Toutefois, le nombre de publications peut déterminer la vitesse de progression de leur carrière.
+[^2]: Plusieurs fois par le passé, des scientifiques ont soumis des articles totalement farfelus à de soi-disant journaux scientifiques pour démontrer la légèreté de leur processus de relecture. Voir [cette pépite](https://www.researchgate.net/publication/343671758_SARS-CoV-2_was_Unexpectedly_Deadlier_than_Push-scooters_Could_Hydroxychloroquine_be_the_Unique_Solution) publiée lors de la pandémie de COVID.

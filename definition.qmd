@@ -1,0 +1,19 @@
+##	Qu’est-ce que la médecine factuelle ?
+
+La médecine factuelle est une démarche consistant à incorporer à la pratique clinique les meilleures connaissances disponibles afin de prendre, à date, les meilleures décisions (notamment thérapeutiques) possibles sur la base des dernières avancées scientifiques. L’approche se fonde sur une recherche structurée des connaissances disponibles, habituellement sous forme d’articles scientifiques, suivie de l’évaluation de la qualité et de la synthèse de ces connaissances. L’objectif ultime est d’incorporer le résultat de ce travail à la pratique clinique quotidienne, que ce soit pour faire face à une situation nouvelle ou inhabituelle, ou remettre en cause des stratégies face à des maladies fréquentes du quotidien. La définition la plus souvent citée pour la médecine factuelle a été proposée en médecine humaine par @Sackett1996 :
+
+*Evidence-based medicine […] is the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients.*
+  
+En français, l’expression *evidence-based medicine* est parfois traduite en *médecine factuelle*, *médecine basée sur les preuves* ou encore *médecine fondée sur les preuves*. Le concept d’*evidence based medicine* a par la suite été décliné en médecine vétérinaire en *evidence-based veterinary medicine* ou **EBVM**. Cette dernière abréviation est souvent utilisée pour désigner la démarche en médecine vétérinaire.
+
+La démarche, tant en médecine humaine que vétérinaire, est structurée en 5 étapes[^1] :
+
+1.	Traduire la question d’intérêt clinique en une question précise à laquelle on peut apporter une réponse précise
+2.	Trouver toutes les informations disponibles pour répondre à la question formulée à l’étape 1
+3.	Évaluer et synthétiser les informations trouvées
+4.	Appliquer les résultats à la pratique
+5.	Evaluer l’impact des changements de pratique sur les résultats
+
+Ces différentes étapes sont décrites plus en détail dans le reste du document.
+
+[^1]: Le *Royal College of Veterinary Surgeons* (RCVS), équivalent de l’ordre des vétérinaires au Royaume-Uni, a développé de nombreuses ressources sur l’EBVM. Voir la définition qu’ils donnent de l’EBVM [ici](https://knowledge.rcvs.org.uk/evidence-based-veterinary-medicine/what-is-ebvm/). Le RCVS a aussi développé un [EBVM toolkit](https://knowledge.rcvs.org.uk/evidence-based-veterinary-medicine/ebvm-toolkit/) qui explique tous les détails de la démarche.

@@ -1,0 +1,3 @@
+## Tri des documents identifiés
+
+Si la recherche de documents doit permettre d’identifier toutes les ressources pertinentes, on trouve souvent beaucoup d’articles sans lien avec la question d’intérêt dans la liste retournée. Une première étape de tri sur la base des titres et des résumés est donc nécessaire.
